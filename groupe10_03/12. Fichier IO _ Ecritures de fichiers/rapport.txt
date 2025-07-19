@@ -1,0 +1,4 @@
+=== Rapport d'analyse === 
+Phrase : Maman est joyeuse
+Nombre de mots : 3
+Nombre de caractères : 17
